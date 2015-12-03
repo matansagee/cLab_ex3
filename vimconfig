@@ -1,0 +1,5 @@
+:set hlsearch
+:set ic
+:set nowrap
+:set nowrapscan
+:set nu
